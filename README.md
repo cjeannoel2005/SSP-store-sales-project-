@@ -8,3 +8,8 @@ this is the github for the SSP project. this README file will contain the approp
 ## Resume 
 
  -[Cedric-O Jean-Noel](/Documentation/Cedric_Resume.md)
+
+## Team assignments 
+
+ Using the following link will take you to the the docmentation to team assignments for this project
+ [team assigment](/Documentation/team_assignments.md)
