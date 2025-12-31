@@ -7,4 +7,4 @@ this is the github for the SSP project. this README file will contain the approp
 
 ## Resume 
 
- -[Cedric-O Jean-Noel](/Resumes/Cedric_Resume.md)
+ -[Cedric-O Jean-Noel](/Documentation/Cedric_Resume.md)
