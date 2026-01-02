@@ -4,6 +4,7 @@
      - C1V-1: User and Admin Implementation
        
        - C1V-10: User registration and login
+         
            -Priotity: must-have 
            -Effort: 1 day 
            - Type: functional
@@ -11,6 +12,7 @@
              Self created account and login
              
        - C1V-15: Admin login
+         
            -Priotity: must have
            -Effort: 1 day 
            - Type: functional 
@@ -20,6 +22,7 @@
              Must be able to export sales report to CSV
 
         - C1V-20: Main page
+          
            -Priotity: must have 
            -Effort: 0.5 day
            - Type: functional 
@@ -27,20 +30,23 @@
             Must be able to search inventory by typing in a search box (system must match words in the box to either the item's name or description
             User cannot click checkout if cart is empty
 
-        - C1V-25: Product listing 
+        - C1V-25: Product listing
+          
            -Priotity: must have 
            -Effort: 0.5 days 
            - Type: functional
            - Each product must have a short name, picture, price , descriptions and also must have a button to add to the cart
              All prices must be in dollars and must have $ sign with commas and decimal points ( must be stored in decimal/currency format the is base-10- )  
              
-        - C1V-30: inventory search 
+        - C1V-30: inventory search
+          
            -Priotity: must have 
            -Effort: 1.5 days 
            - Type: functional 
            - Must be able to search inventory by typing in a search box (system must match words in the box to either the item's name or description
 
-        - C1V-35: checkout page creation 
+        - C1V-35: checkout page creation
+          
            -Priotity:must have 
            -Effort: 1.5 days
            - Type: functional
@@ -49,14 +55,16 @@
              Only these 3 shopping options Overnight : $29 3- day shipping : $19 Ground shipping: $0, free
              Must see list of all the items in cart with subtotal in US dollars from checkout
 
-       - C1V-40: Payment page 
+       - C1V-40: Payment page
+         
            -Priotity: must have 
            -Effort:1 day 
            - Type: functional 
            - From PAY NOW page user must input shipping address, credit card number, phone number and shipping speed ( all must be filled) * credit card also must have expiration date and CVV security code*
              Only these 3 shopping options Overnight : $29 3- day shipping : $19 Ground shipping: $0, free
 
-       - C1V-50: confirmation page 
+       - C1V-50: confirmation page
+         
            -Priotity:must have 
            -Effort: 1 day
            - Type: functional 
