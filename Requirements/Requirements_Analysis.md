@@ -1,8 +1,8 @@
 ## Requirements analysis and elicitation 
 
-#### * Needs* 
+#### Needs 
 
-#### * Users* 
+#### Users 
 - * ALL USERS MUST HAVE A UNIQUE LOGIN , PASSWORD MUST HAVE 6 CHARACTERS MINIMUM *
      Main page 
 -  Must be able to see the all available inventory from highest to lowest price ( after login or registration)
@@ -28,12 +28,12 @@
 -  After checkout if the cart is empty them take user to main page and cart must be empty
 -  everything bought should be available in the sales report
 
-#### * Admin* 
+####  Admin 
 -  Admin must be able to run the sales report that shows everything purchased and who purchased it
 -  Must be able to export sales report to CSV
   
  
-#### * Wants* 
+#### Wants
 -  Normal user must be upgraded to admin only by an admin
 -  multiple pictures for each product
 -  (admin) clicking on a sold item and it showing receipts related to that
