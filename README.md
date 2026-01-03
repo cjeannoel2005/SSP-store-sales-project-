@@ -30,4 +30,7 @@ a database system
 ### User interface Design 
 - I have created a mockup design of the expected look of the program in which users can test the functionally.
   You can test this program by clicking this [link](https://marvelapp.com/prototype/d17i99b)
+
+### Technical design
+
   
