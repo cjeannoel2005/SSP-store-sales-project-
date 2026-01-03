@@ -25,5 +25,9 @@ a database system
 - Click [here](/project-plan/gantt_chart.md) to look at the gantt chart.
 
 ### Requirements 
-- After a discusion with the client, a list of requirements was made and can accessed using this link [Requirements](/Requirements/requirementsREADME.md) 
+- After a discusion with the client, a list of requirements was made and can accessed using this link [Requirements](/Requirements/requirementsREADME.md)
+
+### User interface Design 
+- I have created a mockup design of the expected look of the program in which users can test the functionally.
+  You can test this program by clicking this [link](https://marvelapp.com/project/74286350)
   
