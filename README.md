@@ -32,5 +32,6 @@ a database system
   You can test this program by clicking this [link](https://marvelapp.com/prototype/d17i99b)
 
 ### Technical design
-
+- In this section of the project, i show the [technical design](/TechnicalDesign/TechnicalDesign.md) which will highlight how the program's requirement and
+  database will be build while showing the core relationship.
   
