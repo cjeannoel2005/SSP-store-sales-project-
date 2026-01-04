@@ -29,4 +29,4 @@ This project will be using SQLite for the database storage plan due to the fact 
 
 ## Entity relationship diagram 
 
-Using mermaid, i have create an ERD using crows foot notation which will show you the connection between the entities of the website. use the following [link]{/TechnicalDesign/assets/entity-relationship-diagram.md} to access a picture of the ERD created for this program.
+Using mermaid, i have create an ERD using crows foot notation which will show you the connection between the entities of the website. use the following [link](/TechnicalDesign/assets/entity-relationship-diagram.md) to access a picture of the ERD created for this program.
