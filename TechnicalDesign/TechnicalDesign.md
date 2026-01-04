@@ -28,3 +28,5 @@ This program's implimentation language will be pair with the following framework
 This project will be using SQLite for the database storage plan due to the fact it is perfect for small to meduim scale e-commerce websites while being able to add development or test the program 
 
 ## Entity relationship diagram 
+
+Using mermaid, i have create an ERD using crows foot notation which will show you the connection between the entities of the website. use the following [link]{/TechnicalDesign/assets/entity-relationship-diagram.md} to access a picture of the ERD created for this program.
