@@ -12,7 +12,7 @@
 - [Authentication/Authorization plan]()
 - [Coding style guide]()
 
-### Implementation language
+## Implementation language
 
 The SSP store sales project will be implemented using Java. I choose Java due to it's security and scalability which will come in handy when handling transactions on an e-commerce website. In addition to feeling confortable writing code in java, the programming language is widely used in building website that are secure and reliable.
 
