@@ -63,4 +63,73 @@ Using mermaid, i have create an ERD using crows foot notation which will show yo
 - Sales report
   <img width="1186" height="390" alt="image" src="https://github.com/user-attachments/assets/526962fd-8f32-4e8d-8a6f-f066a5eead72" />
 
+## Example data 
+# SSP Store - Example Data Tables
 
+## Admin 
+| adminUsername | AdminPassword |
+|--------------|---------------|
+| jdoe_admin   | AdminPass123! |
+| asmith       | SecurePass456 |
+| rjohnson     | P@ssw0rd789   |
+
+## Customer 
+| customerUsername | CustomerPassword |
+|-----------------|------------------|
+| alice_j         | AlicePass123     |
+| bsmith          | BobSecure456     |
+| carol_d         | CarolPwd789      |
+
+## Login 
+| Username   | Password       | signupButton |
+|------------|----------------|--------------|
+| jdoe_admin | AdminPass123!  | 0            |
+| alice_j    | AlicePass123   | 0            |
+| bsmith     | BobSecure456   | 1            |
+
+## Inventory 
+| product      | search              | description                 | price |
+|--------------|---------------------|-----------------------------|-------|
+| creatine        | "creatine"    | 3 pack of creatine monohydrate    | 115.00  |
+| whey protein | "whey"     | 4 pack of vanilla whey protein powder | 180.00  |
+| pre-workout    | "pre-"  | 2 pack of green apple flavored pre-workout       | 100.00  |
+
+## Search 
+| product      | description                 | price |
+|--------------|-----------------------------|-------|
+| pre-workout        |  2 pack of green apple flavored pre-workout   | 100.00  |
+| creatine | 3 pack of creatine monohydrate | 115.00  |
+| whey protein    |4 pack of vanilla whey protein powder       | 180.00  |
+
+## Sign up 
+| username | password      | passwordRetype | name         |
+|----------|---------------|----------------|--------------|
+| alice_j  | AlicePass123  | AlicePass123   | Alice Johnson|
+| bsmith   | BobSecure456  | BobSecure456   | Bob Smith    |
+| carol_d  | CarolPwd789   | CarolPwd789    | Carol Davis  |
+
+## Shopping cart 
+| product      | quantity | totalItemInCart |
+|--------------|----------|-----------------|
+| pre-workout        | 2        | 3               |
+| whey-protein| 1        | 2               |
+| creatine   | 3        | 5               |
+
+## Checkout 
+| address      | country | state | zipcode | nameOnCard    | cardNumber        | csv | expirationDate | shippingSpeed | totalPriceOfItems | tax  | shippingOption | total |
+|--------------|---------|-------|---------|---------------|-------------------|-----|----------------|---------------|-------------------|------|----------------|-------|
+| 123 Main St  | USA     | NY    | 10001   | ALICE JOHNSON | 4111111111111111 | 123 | 1225           | Express       | 11997             | 10.50| 2              | 12018 |
+| 456 Oak Ave  | USA     | CA    | 90001   | ROBERT SMITH  | 5555555555554444 | 456 | 0624           | Standard      | 8999              | 8.25 | 1              | 9008  |
+
+## Receipt 
+| address     | country | state | zipcode | nameOnCard    | shippingSpeed | total |
+|-------------|---------|-------|---------|---------------|---------------|-------|
+| 123 Main St | USA     | NY    | 10001   | ALICE JOHNSON | Express       | 12018 |
+| 456 Oak Ave | USA     | CA    | 90001   | ROBERT SMITH  | Standard      | 9008  |
+
+## Sales report Table
+| product      | amountInInventory | amountSold |
+|--------------|-------------------|------------|
+| whey-protein        | 150               | 45         |
+| creatine | 45                | 22         |
+| pre-workout    | 75                | 38         |
