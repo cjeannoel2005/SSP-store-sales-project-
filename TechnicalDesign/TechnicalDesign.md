@@ -64,7 +64,7 @@ Using mermaid, i have create an ERD using crows foot notation which will show yo
   <img width="1186" height="390" alt="image" src="https://github.com/user-attachments/assets/526962fd-8f32-4e8d-8a6f-f066a5eead72" />
 
 ## Example data 
-# SSP Store - Example Data Tables
+ SSP Store - Example Data Tables
 
 ## Admin 
 | adminUsername | AdminPassword |
@@ -133,3 +133,41 @@ Using mermaid, i have create an ERD using crows foot notation which will show yo
 | whey-protein        | 150               | 45         |
 | creatine | 45                | 22         |
 | pre-workout    | 75                | 38         |
+
+## Coding style guide 
+Java Project Coding Guidelines
+
+- Naming Conventions
+- **Classes**: `camelCase` (e.g., `shoppingCart`)
+- **Methods**: `camelCase` (e.g., `calculateTotal`)
+- **Variables**: `camelCase` (e.g., `itemPrice`)
+
+- File Organization
+- Clear, descriptive names (no unnecessary abbreviations)
+- One class per file (match filename to class name)
+
+- Git Practices
+- Commit small, logical changes
+- Write clear commit messages (e.g., "Fix cart total calculation")
+- Sync with team before major changes
+
+- Code Structure
+- Keep methods small and focused
+- Break complex logic into helper methods
+- stay away from  deep nesting (max 2-3 levels)
+
+- Comments
+- Class header: Brief purpose description
+- Method comments: Explain what it does (not how)
+- Important logic: Short clarifying comments
+
+- Code Quality
+- No duplicate code (reuse methods)
+- Validate all user inputs
+- Remove unused code
+- Test thoroughly before pushing
+
+- Error Handling
+- Check for null values
+- Handle exceptions properly
+- Provide meaningful error messages
