@@ -2,15 +2,15 @@
 
 ### Table of content 
 
-- [Implementation languages]()
-- [Implamentation framework]()
-- [Data storage plan]()
-- [Entity relatioship diagram]()
-- [Entity/Field description]()
-- [Data examples]()
+- [Implementation languages](#Implementation language)
+- [Implamentation framework](#Implementation framework)
+- [Data storage plan](#Data-storage-plan)
+- [Entity relatioship diagram](#Entity-relationship-diagram)
+- [Entity/Field description](# Table-of-field-description-for-each-entity)
+- [Data examples](#Example-data)
 - [Database seed data]()
-- [Authentication/Authorization plan]()
-- [Coding style guide]()
+- [Authentication/Authorization plan](#Authentification-and-Authorization-plan)
+- [Coding style guide](Coding-style-guide)
 
 ## Implementation language
 
