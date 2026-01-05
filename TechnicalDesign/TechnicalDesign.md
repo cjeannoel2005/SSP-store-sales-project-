@@ -2,8 +2,8 @@
 
 ### Table of content 
 
-- [Implementation languages](#Implementation language)
-- [Implamentation framework](#Implementation framework)
+- [Implementation languages](#Implementation-language)
+- [Implamentation framework](#Implementation-framework)
 - [Data storage plan](#Data-storage-plan)
 - [Entity relatioship diagram](#Entity-relationship-diagram)
 - [Entity/Field description](#Table-of-field-descriptions-for-each-entity)
