@@ -134,6 +134,10 @@ Using mermaid, i have create an ERD using crows foot notation which will show yo
 | creatine | 45                | 22         |
 | pre-workout    | 75                | 38         |
 
+## Authentification and authorization plan 
+
+ this program will use the single athentification login page but will be verified throught and authorization process in which will follow a role based acccount access to determine which page will show up for that specific user. This will ensure a clear seperation of the user roles while maintaining security.
+
 ## Coding style guide 
 Java Project Coding Guidelines
 
@@ -171,3 +175,4 @@ Java Project Coding Guidelines
 - Check for null values
 - Handle exceptions properly
 - Provide meaningful error messages
+
