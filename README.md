@@ -36,4 +36,6 @@ a database system
   database will be build while showing the core relationship.
 
 ### Implementation 
-using this [link]() you will be taken to the implementation intructions in order to download and use the web program for the SSP store 
+using this [link](/Implementation/) you will be taken to the implementation intructions in order to download and use the web program for the SSP store 
+
+### Final presentation
