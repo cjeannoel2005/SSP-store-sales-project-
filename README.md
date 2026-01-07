@@ -34,4 +34,6 @@ a database system
 ### Technical design
 - In this section of the project, i show the [technical design](/TechnicalDesign/TechnicalDesign.md) which will highlight how the program's requirement and
   database will be build while showing the core relationship.
-  
+
+### Implementation 
+using this [link]() you will be taken to the implementation intructions in order to download and use the web program for the SSP store 
