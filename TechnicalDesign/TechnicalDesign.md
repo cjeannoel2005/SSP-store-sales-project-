@@ -143,7 +143,7 @@ Using mermaid, i have create an ERD using crows foot notation which will show yo
 |            003 |  shoppingFan   | maggieCube     | 
 
 
-|Inventory entity| 
+|Inventory entity |                    |                                                   |              |
 |-----------------|--------------------|---------------------------------------------------|--------------|
 | productId   PK  | name               | description                                       | Price        |
 |              1  | electrolyte powder | 30 pack of watermelon flavored electrolyte powder | 200.00       |
