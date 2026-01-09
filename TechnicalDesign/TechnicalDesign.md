@@ -8,9 +8,9 @@
 - [Entity relatioship diagram](#Entity-relationship-diagram)
 - [Entity/Field description](#Table-of-field-descriptions-for-each-entity)
 - [Data examples](#Example-data)
-- [Database seed data]()
+- [Database seed data](#Database-seed-data)
 - [Authentication/Authorization plan](#Authentification-and-Authorization-plan)
-- [Coding style guide](Coding-style-guide)
+- [Coding style guide](#Coding-style-guide)
 
 ## Implementation language
 
