@@ -153,6 +153,23 @@ Using mermaid, i have create an ERD using crows foot notation which will show yo
 |              5  | multi-vitamins     | 2 pack of multi-vitamin with 90 pills each        | 75.00        |
 |              6  | mystery pack       | clothing item from gymshark or item from inventory| 50.00        |
 
+|ShippingType entity|                    |                             |
+|-------------------|--------------------|-----------------------------|
+|ShippingSpeed PK   | name               | price                       | 
+|               1   | Overnight          | 29.00                       | 
+|               2   | 3-day shipping     | 19.00                       | 
+|               3   | Ground-shipping    | 10.00                       | 
+
+| Sales report entity|                     |                             | 
+|--------------------|---------------------|-----------------------------|
+| name               | amount in inventory |         amount sold         | 
+| pre-workout        |          25         |             23              | 
+| mystery box        |          78         |             94              | 
+| multi-vitamins     |          33         |             28              | 
+| whey protein       |          92         |             39              | 
+| electrolytes       |          15         |            190              | 
+| creatine           |          40         |             64              | 
+
 ## Authentification and authorization plan 
 
  this program will use the single athentification login page but will be verified throught and authorization process in which will follow a role based acccount access to determine which page will show up for that specific user. This will ensure a clear seperation of the user roles while maintaining security.
