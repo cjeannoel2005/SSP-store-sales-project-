@@ -135,7 +135,23 @@ Using mermaid, i have create an ERD using crows foot notation which will show yo
 | pre-workout    | 75                | 38         |
 
 ## Database seed data 
+|users entity|
+|---------------|----------------|----------------|---------------|
+|useId PK       | Username       |Password        | 
+|            001| foreverRover   | piggieMac      |
+|            002| Moviegeek      | JamesBond      |
+|            003|  shoppingFan   | maggieCube     | 
 
+
+|Inventory entity| 
+|----------------|----------------|----------------|--------------|
+|productId   PK  | name           | description    |Price         |
+|              1 | electrolyte powder| 30 pack of watermelon flavored electrolyte powder| 200.00|
+|              2 | whey protein      | 4 pack of vanilla protein powder| 180.00|
+|              3|  creatine          | 3 pack of creatine monohydrate  | 115.00| 
+|              4 | pre-workout       | 2 pack of green apple flavored pre-workout| 100.00|
+|              5 | multi-vitamins    | 2 pack of multi-vitamin with 90 pills each|75.00|
+|              6 | mystery pack      | clothing item from gymshark or item from inventory| 50.00|
 
 ## Authentification and authorization plan 
 
