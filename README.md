@@ -10,8 +10,7 @@ This is the github for the SSP project. This README file contains the  documenta
 
 ### Team Assignments 
 
- Using the following link to access the docmentation for team assignments in this project
- [team assigment](/project-plan/team_assignments.md)
+ Using the following link to access the docmentation for team assignments in this project [team assigment](/project-plan/team_assignments.md)
 
 ### Technology Selection 
 
@@ -29,7 +28,7 @@ This is the github for the SSP project. This README file contains the  documenta
 - I have created a mockup design to illustrate the expected look and functionality of the program. You can test it by clicking this [link](https://marvelapp.com/prototype/d17i99b).
 
 ### Technical design
-- In this section, I present the[technical design](/TechnicalDesign/TechnicalDesign.md) ,which outlines how the program's requirements and database will be built, along with the core relationships.
+- In this section, I present the [technical design](/TechnicalDesign/TechnicalDesign.md) ,which outlines how the program's requirements and database will be built, along with the core relationships.
 
 ### Implementation 
 - Use this [link](/Implementation/) to access the implimentation instructions for downloading and using the SSP Store web application.
