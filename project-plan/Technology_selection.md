@@ -1,6 +1,6 @@
-## **Technology selection** 
+## **Technology Selection**
 
-- For this project i have chosen to use Java-Spring (Maven) as the implimentation language and the framework 
-- I will use as operating system Mac but the program should be able to work on mac and windows systems ( unsure for linux systems )
-- SQLite will be used as the database 
-- the methodology used is agile.
+- For this project, I have chosen to use Java Spring (Maven) as the implementation language and framework.
+- I will use macOS as the operating system, but the program should be compatible with both macOS and Windows systems (unsure about Linux compatibility).
+- SQLite will be used as the database.
+- The methodology used is Agile.
