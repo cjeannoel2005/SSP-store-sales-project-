@@ -7,6 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SSPStoreApplication {
     public static void main(String[] args) {
         SpringApplication.run(SSPStoreApplication.class, args);
-       System.out.println("Hello World!");
+
     }
 }
