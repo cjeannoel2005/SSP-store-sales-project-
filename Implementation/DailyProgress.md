@@ -6,3 +6,5 @@
 - i added the package com which tell the program where the location of the file is
 - i also added the @RestController is like the main welcome that talks in json
 - the @RestMapping is like the name of the page which will take the requests 
+### 01/14/2026
+- no work done today
