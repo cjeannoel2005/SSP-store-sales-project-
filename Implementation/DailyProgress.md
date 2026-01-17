@@ -12,3 +12,5 @@
 -Added controller files and the model file
 - added atributes to the model files
 - did research on how to correctly build the model file and how they will be connected to the database in terms of the entities 
+### 01/15/2026 
+- added the repositories under the files 
