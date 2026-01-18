@@ -12,7 +12,7 @@
 -Added controller files and the model file
 - added atributes to the model files
 - did research on how to correctly build the model file and how they will be connected to the database in terms of the entities 
-### 01/15/2026 
+### 01/16/2026 
 - added the repositories under the files
 - did research for the datase on how to connect the users thought microsoft or oracle sqlite
 ### 01/17/2026 
