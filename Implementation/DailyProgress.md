@@ -15,3 +15,6 @@
 ### 01/15/2026 
 - added the repositories under the files
 - did research for the datase on how to connect the users thought microsoft or oracle sqlite
+### 01/17/2026 
+- did research on how to connect the files to the database in terms of function
+- research how to create the main page 
