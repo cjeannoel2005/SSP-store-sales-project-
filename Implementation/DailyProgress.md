@@ -18,3 +18,5 @@
 ### 01/17/2026 
 - did research on how to connect the files to the database in terms of function
 - research how to create the main page 
+### 01/18/2026
+- no prgress done today
