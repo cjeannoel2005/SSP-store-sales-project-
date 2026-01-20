@@ -19,7 +19,7 @@
 - did research on how to connect the files to the database in terms of function
 - research how to create the main page 
 ### 01/18/2026
-- no prgress done today
+- no progress done today
 ### 01/19/2026 
 - added the updates to the model class in the @Id level for the database
 - added some of the field description from tehh description tables of the github files
