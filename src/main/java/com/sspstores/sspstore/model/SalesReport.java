@@ -4,7 +4,10 @@ package com.sspstores.sspstore.model;
 @Table(name="SalesReport")
 
  public class SalesReport{
+    @Id
     private String product;
+    @Id
     private int amountInInventory;
+    @Id
     private int amountSold;
 }

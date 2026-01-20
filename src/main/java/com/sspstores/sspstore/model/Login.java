@@ -5,5 +5,7 @@ package com.sspstores.sspstore.model;
 
  public class Login{
 
+ @Id
+ private 
 
 }
