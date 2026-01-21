@@ -24,3 +24,5 @@
 - added the updates to the model class in the @Id level for the database
 - added some of the field description from tehh description tables of the github files
 - need to do further research for the enitities relatioship and how to connect them 
+### 01/20/2026 
+- no progress due to assigments ( biology / intro to database)
