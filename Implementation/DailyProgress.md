@@ -26,3 +26,5 @@
 - need to do further research for the enitities relatioship and how to connect them 
 ### 01/20/2026 
 - no progress due to assigments ( biology / intro to database)
+### 01/21/2026
+- Adding the correct structure to the class for the database
