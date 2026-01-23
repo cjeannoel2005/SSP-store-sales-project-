@@ -28,3 +28,5 @@
 - no progress due to assigments ( biology / intro to database)
 ### 01/21/2026
 - Adding the correct structure to the class for the database
+### 01/22?2025  
+- no progress made ( hw: human comm and bio ) 
