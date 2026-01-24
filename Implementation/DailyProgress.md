@@ -29,4 +29,8 @@
 ### 01/21/2026
 - Adding the correct structure to the class for the database
 ### 01/22/2026
-- no progress made ( hw: human comm and bio ) 
+- no progress made ( hw: human comm and bio )
+### 01/23/2026
+- addded the relationship annotations to the model class admin
+- added the constructor for the model class admin
+- added teh setters and getters for the model class admin
