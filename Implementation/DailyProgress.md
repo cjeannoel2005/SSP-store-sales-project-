@@ -40,3 +40,7 @@
 - added the primary keys and the field for the customer and login model pages
 - added the relationship and constructor for the customer and login model pages
 - created the setters and getters for the model class customer 
+### 01/25/2026 
+- added correct in the @Column files for the customer, admin and login models for the length and the unique field
+- created the inventory model
+- added the imports, class annotations, primary keys and fields, realationship/ contructor , setters and getters for the inventory model
