@@ -34,3 +34,9 @@
 - addded the relationship annotations to the model class admin
 - added the constructor for the model class admin
 - added teh setters and getters for the model class admin
+### 01/24/2026 
+- added the package for the customer and login model pages
+- added the imports and class annotation for the customer and login model pages
+- added the primary keys and the field for the customer and login model pages
+- added the relationship and constructor for the customer and login model pages
+- created the setters and getters for the model class customer 
