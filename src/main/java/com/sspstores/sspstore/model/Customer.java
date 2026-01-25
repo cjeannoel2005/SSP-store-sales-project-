@@ -1,11 +1,55 @@
 package com.sspstores.sspstore.model;
 
+// the imports
+import javax.persistence.*;
+import java.util.HashSet;
+import java.util.Set;
+
  @Entity
  @Table(name="Customer")
 
    public class Customer{
 
      @Id
-     // Lookup if the class neeed generated ids
-     @
+      @GeneratedValue( strategy = GenerationType.IDENTITY);
+       private int id;
+
+       @Id
+       @Column(name = "CustomerUsername"; nullable = false )
+      private String customerName;
+
+       @Column(name = "CustomerPassword"; nullable = false)
+     private String customerPassword;
+
+       @OnetoMany(mappedBy = "customer")
+     private List<customer> Customer = new ArrayList<>;
+
+       // the empty base class
+       public Customer(){
+       }
+
+       public Customer(String customerName, String customerPassword){
+           this.customerName = customerName;
+           this.customerPassword = customerPassword;
+       }
+
+       // the setters and getter
+
+       public String getCustomerName(){
+           return customerName;
+       }
+
+       public String customerPassword(){
+           return customerPassword;
+       }
+
+       public void setCustomerName(String customerName){
+           this.customerName = customerName;
+       }
+
+       public void setCustomerPassword(String customerPassword){
+           this.customerPassword = customerPassword;
+       }
+
+
  }

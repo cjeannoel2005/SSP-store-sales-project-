@@ -3,7 +3,6 @@ package com.sspstores.sspstore.model;
 
 // imports for the database
 import javax.persistence.*;
-import java.time.LocalDateTime;
 import java.util.HashSet;
 import java.util.Set;
 
