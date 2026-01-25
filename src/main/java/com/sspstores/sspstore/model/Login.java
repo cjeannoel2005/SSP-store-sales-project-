@@ -22,4 +22,32 @@ import java.util.Set;
 
  // the signup button should be here can shoule a bit in datatype
 
+ @ManyToMany(mappedBy = "login")
+  private list<login> loginList = new ArrayList<>;
+
+ public Login(){}
+
+ public Login(String username , String password){
+  this.username = username;
+  this.Password = password;
+ }
+
+ // the setters and getters
+
+ public String getUsername(){
+  return Username;
+ }
+  public String getPassword(){
+  return Password;
+  }
+
+  public void setUsername(String username){
+  Username = username;
+  }
+
+  public void setPassword(String password){
+  Password = password;
+
+  }
+
 }

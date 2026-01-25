@@ -17,10 +17,10 @@ import java.util.Set;
 // the variable for the id
         private int id ;
 
-    @Column(name="adminUsername",nullable = false, unique = true)
+    @Column(name="adminUsername",nullable = false, unique = true , length = 50)
         private String adminUsername;
 
-   @Column(name="adminPassword",nullable = false, unique = false)
+   @Column(name="adminPassword",nullable = false, unique = false, length = 50)
         private String adminPassword;
 
    // the relationhip annotation

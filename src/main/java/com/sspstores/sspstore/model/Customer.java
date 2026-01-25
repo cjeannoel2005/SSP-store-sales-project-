@@ -15,10 +15,10 @@ import java.util.Set;
        private int id;
 
        @Id
-       @Column(name = "CustomerUsername"; nullable = false )
+       @Column(name = "CustomerUsername"; nullable = false, unique = true, legnth = 50  )
       private String customerName;
 
-       @Column(name = "CustomerPassword"; nullable = false)
+       @Column(name = "CustomerPassword"; nullable = false, unique = false, length = 50 )
      private String customerPassword;
 
        @OnetoMany(mappedBy = "customer")
@@ -36,19 +36,23 @@ import java.util.Set;
        // the setters and getter
 
        public String getCustomerName(){
+
            return customerName;
        }
 
        public String customerPassword(){
+
            return customerPassword;
        }
 
        public void setCustomerName(String customerName){
+
            this.customerName = customerName;
        }
 
        public void setCustomerPassword(String customerPassword){
-           this.customerPassword = customerPassword;
+           t
+       his.customerPassword = customerPassword;
        }
 
 
