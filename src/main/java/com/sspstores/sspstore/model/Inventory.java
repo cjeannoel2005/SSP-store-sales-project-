@@ -18,14 +18,22 @@ package com.sspstores.sspstore.model;
      @Column(name = "search", length = 50 , nullable = false, unique = false )
      private String search ;
 
+     @Column(name ="description", unique = true, length = 150 , nullable = false)
+     private String description ;
+
+     @Column(name = "price", unique = true , nullable = false , length = 100)
+     private int price;
+
      @OneToOne(mappedBy = "Inventory")
      private List<inventory> inventoryList = new ArrayList<>;
 
      public Inventory(){}
 
-     public Inventory(String product, String search){
+     public Inventory(String product, String search, String description, int price){
          this.product = product;
          this.search = search;
+         this.description = description;
+         this.price = price;
      }
 
      // the setters and getters
@@ -35,8 +43,24 @@ package com.sspstores.sspstore.model;
          return product;
      }
 
+     public String getDescription(){
+         return description;
+     }
+
+     public int getPrice(){
+         return price;
+     }
+
      public void setProduct(String product){
          this.product = product;
+     }
+
+     public void setDescription(String description){
+         this.description = description;
+     }
+
+     public void setPrice(int price){
+         this.price = price;
      }
 
  }
