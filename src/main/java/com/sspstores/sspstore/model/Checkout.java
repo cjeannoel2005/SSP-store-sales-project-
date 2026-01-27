@@ -73,4 +73,92 @@ import java.util.Set;
           this.total = total;
 
       }
+
+      public String getAddress(){
+          return address
+      }
+
+      public String getCountry(){
+          return country;
+      }
+
+      public int getZipCode(){
+          return zipCode;
+      }
+
+      public String getNameOnCard(){
+          return nameOnCard;
+      }
+
+      public int getCsv(){
+          return csv;
+      }
+
+      public int getExpirationDate(){
+          return expirationDate;
+      }
+
+      public String getShippingSpeed(){
+          return shippingSpeed;
+      }
+
+      public int getTotalPriceOfItems(){
+          return totalPriceOfItems;
+      }
+
+      public float getTax(){
+          return tax;
+      }
+
+      public int getShippingOption(){
+          return shippingOption;
+      }
+
+      public int getTotal(){
+          return total;
+      }
+
+      public void setAddress(String address){
+          this.address = address;
+      }
+
+      public void setCountry(String country){
+          this.country = country;
+      }
+
+      public void setZipCode(int zipCode){
+          this.zipCode = zipCode;
+      }
+
+      public void setNameOnCard(String nameOnCard){
+          this.nameOnCard = nameOnCard;
+
+      }
+      public void setCsv(int csv){
+          this.csv = csv;
+      }
+
+      public void setExpirationDate(int expirationDate){
+          this.expirationDate = expirationDate;
+      }
+
+      public void setShippingSpeed(String shippingSpeed){
+          this.shippingSpeed = shippingSpeed;
+      }
+
+      public void setTotalPriceOfItems(int totalPriceOfItems){
+          this.totalPriceOfItems = totalPriceOfItems;
+      }
+
+      public void setTax(float tax){
+          this.tax = tax;
+      }
+
+      public void setShippingOption(int shippingOption){
+          this.shippingOption = shippingOption;
+      }
+
+      public void setTotal(int total){
+          this.total = total;
+      }
   }
