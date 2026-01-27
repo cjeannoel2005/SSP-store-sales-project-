@@ -51,3 +51,8 @@
 - create the imports, class annotations, primary keys and fields, realationship/ contructor for the model page receipt
 - create the imports, class annotations, primary keys and fields, for the model page salesReport
 - made correction in the model page receipt (added the field from the sales report on accident)
+### 01/27/2026
+- creating of the sign up model page 
+- added the imports, class annotations, primary keys and fields,  contructor , setters and getters for the salesReport, sign up and shoppingcart model pages
+- research on the instances when there is more than one type of relationship in a model page and how implement it 
+
