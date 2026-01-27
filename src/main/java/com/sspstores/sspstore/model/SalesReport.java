@@ -20,4 +20,38 @@ package com.sspstores.sspstore.model;
 
    // find the relation structure for this part of the
    @ManyToMany
+
+  public salesReport(){
+
+   }
+   public salesReport(String product, int amountInInventory, int amountSold){
+     this.product = product;
+     this.amountInInventory = amountInInventory;
+     this.amountSold = amountSold;
+   }
+
+   // the setters and getters
+  public String getProduct(){
+    return product;
+  }
+
+  public int amountInInventory(){
+     return amountInInventory;
+  }
+
+  public int amountSold(){
+     return amountSold;
+  }
+
+  public void setProduct(String product){
+     this.product = product;
+  }
+
+  public void setAmountInInventory(int amountInInventory){
+     this.amountInInventory = amountInInventory;
+  }
+
+  public void setAmountSold(int amountSold){
+     this.amountSold = amountSold;
+  }
 }

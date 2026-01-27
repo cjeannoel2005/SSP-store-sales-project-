@@ -38,11 +38,13 @@ import java.util.Set;
        }
 
        public int getQuantity(){
-           return quantity;
+
+             return quantity;
        }
 
        public int getTotalItemInCart(){
-           return totalItemInCart;
+
+             return totalItemInCart;
        }
 
        public void setProduct(String product){
