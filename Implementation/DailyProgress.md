@@ -48,3 +48,6 @@
 - made changes to the variable field in terms of the field variable such as unique and nullable for the shoppingCart , inventory and checkout model pages
 ### 01/26/2026
 - added the setters and getters for the model class checkout 
+- create the imports, class annotations, primary keys and fields, realationship/ contructor for the model page receipt
+- create the imports, class annotations, primary keys and fields, for the model page salesReport
+- made correction in the model page receipt (added the field from the sales report on accident)
