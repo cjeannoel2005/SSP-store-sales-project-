@@ -4,10 +4,20 @@ package com.sspstores.sspstore.model;
 @Table(name="SalesReport")
 
  public class SalesReport{
-    @Id
-    private String product;
-    @Id
-    private int amountInInventory;
-    @Id
-    private int amountSold;
+
+   @Id
+   @GeneratedValue(strategy = GenerationType.IDENTITY)
+   private int Id
+
+   @Column(name = "product", nullable = false , unique = false , length = 50)
+   private String product;
+
+   @Column(name ="amountInInventory ", nullable = false )
+   private int amountInInventory ;
+
+   @Column(name = "amountSold", nullable = false )
+   private int amountSold ;
+
+   // find the relation structure for this part of the
+   @ManyToMany
 }
