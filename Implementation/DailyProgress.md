@@ -44,6 +44,6 @@
 - added correct in the @Column files for the customer, admin and login models for the length and the unique field
 - created the inventory model
 - added the imports, class annotations, primary keys and fields, realationship/ contructor , setters and getters for the inventory model
-- added the imports, class annotations, primary keys and fields, realationship/ contructor , setters and getters shoppingCart and checkout model page
+- added the imports, class annotations, primary keys and fields, realationship/ contructor , setters and getters shoppingCart model page
 - made changes to the variable field in terms of the field variable such as unique and nullable for the shoppingCart , inventory and checkout model pages
   
