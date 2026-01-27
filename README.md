@@ -1,37 +1,36 @@
 # SSP (store sales project)
 
-This is the github for the SSP project. this README file will contain the appropriate documentation,resume and the source-code for the e-commerce website project.This project will be written in Java-Spring and SQLite. This website will sell high-end books through an online interface, which will have admin which will moniter the inventory while being able to update the stock of the store and costumer side will be able to add items to the cart and checkout. An SQLite databse will track every aspect of the website. this website was build using intelij idea on MacOS 
-
+This is the github for the SSP project. This README file contains the  documentation,project plan, and the source-code for the e-commerce website project.This project is written in Java Spring and SQLite. This website will sell gym essentials through an online interface, featuring an admin panel to monitor and update inventory, while customers can add items to their cart and proceed to checkout. An SQLite database tracks all aspects of the website. This project was built using IntelliJ IDEA on macOS.
 
 ### Project Plan 
 
-### Meet the man behind this porject 
+### Meet the Project Developer
 
  -[Cedric-O Jean-Noel](/project-plan/Cedric_Resume.md)
 
-### Team assignments 
+### Team Assignments 
 
- Using the following link will take you to the the docmentation to team assignments for this project
- [team assigment](/project-plan/team_assignments.md)
+ Using the following link to access the docmentation for team assignments in this project [team assigment](/project-plan/team_assignments.md)
 
-### Technology selection 
+### Technology Selection 
 
-- In order to complete this project i will be using java accompagnied by springboot while storing the information in 
-a database system 
+- To complete this project, I will use Java with Spring Boot and store the information in a database system. 
 
-- Click [here](/project-plan/Technology_selection.md) to read more information on why those were my choices for this project.
+- Click [here](/project-plan/Technology_selection.md) for more information on why these technologies were chosen.
 
-### Gantt chart
-- Click [here](/project-plan/gantt_chart.md) to look at the gantt chart.
+### Gantt Chart
+- Click [here](/project-plan/gantt_chart.md) to view the gantt chart.
 
 ### Requirements 
-- After a discusion with the client, a list of requirements was made and can accessed using this link [Requirements](/Requirements/requirementsREADME.md)
+- After discusions with the client, a list of requirements was created. You can access it via this link [Requirements](/Requirements/requirementsREADME.md)
 
-### User interface Design 
-- I have created a mockup design of the expected look of the program in which users can test the functionally.
-  You can test this program by clicking this [link](https://marvelapp.com/prototype/d17i99b)
+### User Interface Design 
+- I have created a mockup design to illustrate the expected look and functionality of the program. You can test it by clicking this [link](https://marvelapp.com/prototype/d17i99b).
 
 ### Technical design
-- In this section of the project, i show the [technical design](/TechnicalDesign/TechnicalDesign.md) which will highlight how the program's requirement and
-  database will be build while showing the core relationship.
+- In this section, I present the [technical design](/TechnicalDesign/TechnicalDesign.md) ,which outlines how the program's requirements and database will be built, along with the core relationships.
+
+### Implementation 
+- Use this [link](/Implementation/) to access the implimentation instructions for downloading and using the SSP Store web application.
   
+### Final presentation
