@@ -54,5 +54,9 @@
 ### 01/27/2026
 - creating of the sign up model page 
 - added the imports, class annotations, primary keys and fields,  contructor , setters and getters for the salesReport, sign up and shoppingcart model pages
-- research on the instances when there is more than one type of relationship in a model page and how implement it 
+- research on the instances when there is more than one type of relationship in a model page and how implement it
+### 01/28/2026 
+- create the notes page for the model class under the implementation page
+- create the setters and getters for the model class receipt
+- reate the imports, class annotations, primary keys and fields, realationship/ contructor for the model page product 
 
