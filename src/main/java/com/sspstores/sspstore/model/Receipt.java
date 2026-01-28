@@ -41,6 +41,20 @@ import java.util.Set;
     @OneToOne(mappedBy ="receipt")
     private List<receipt> receiptList = new ArrayList<>();
 
+    public Receipt(){
+
+    }
+
+    public Receipt(String address, String country, String state, String nameOnCard, int shippingSpeed,
+                   String shippingChoice, float total) {
+      this.address = address;
+      this.country = country;
+      this.state = state;
+      this.nameOnCard = nameOnCard;
+      this.shippingSpeed = shippingSpeed;
+      this.shippingChoice = shippingChoice;
+      this.total = total;
+    }
     // the setters and getters
 
   public String getAddress(){
