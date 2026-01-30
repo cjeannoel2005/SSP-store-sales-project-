@@ -59,4 +59,6 @@
 - create the notes page for the model class under the implementation page
 - create the setters and getters for the model class receipt
 - reate the imports, class annotations, primary keys and fields, realationship/ contructor for the model page product 
+### 01/29/2026
+- no progress made today (bio and intro to database systems notes and hw)
 
