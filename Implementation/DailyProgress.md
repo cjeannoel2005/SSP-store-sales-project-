@@ -61,4 +61,6 @@
 - reate the imports, class annotations, primary keys and fields, realationship/ contructor for the model page product 
 ### 01/29/2026
 - no progress made today (bio and intro to database systems notes and hw)
+### 01/30/2026 
+- no progress made today due to mentor introduction and note taking for computer org and arch
 
