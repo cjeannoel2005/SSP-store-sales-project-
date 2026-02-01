@@ -63,4 +63,7 @@
 - no progress made today (bio and intro to database systems notes and hw)
 ### 01/30/2026 
 - no progress made today due to mentor introduction and note taking for computer org and arch
+### 01/31/2026 
+- added the link to the notes section in implementation
+- no coding progress due to having to complete assignment for the funds of data communication class 
 
