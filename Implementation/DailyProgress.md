@@ -65,5 +65,7 @@
 - no progress made today due to mentor introduction and note taking for computer org and arch
 ### 01/31/2026 
 - added the link to the notes section in implementation
-- no coding progress due to having to complete assignment for the funds of data communication class 
+- no coding progress due to having to complete assignment for the funds of data communication class
+### 02/01/2026
+- no progress made today (funds of data communications homework) 
 
