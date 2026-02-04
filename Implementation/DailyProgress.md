@@ -67,5 +67,11 @@
 - added the link to the notes section in implementation
 - no coding progress due to having to complete assignment for the funds of data communication class
 ### 02/01/2026
-- no progress made today (funds of data communications homework) 
+- no progress made today (funds of data communications homework)
+### 02/02/2026
+- creation of the repository and the controller note pages
+### 02/03/2026
+- research on how to build the repository and controller page
+- research on how to connect the pages to the model pages
+- research on how to connect pages to databases 
 
