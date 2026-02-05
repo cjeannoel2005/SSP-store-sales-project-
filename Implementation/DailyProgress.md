@@ -74,4 +74,6 @@
 - research on how to build the repository and controller page
 - research on how to connect the pages to the model pages
 - research on how to connect pages to databases 
-
+### 02/04/2026
+- no progress made
+  
