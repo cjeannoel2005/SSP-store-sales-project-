@@ -76,4 +76,7 @@
 - research on how to connect pages to databases 
 ### 02/04/2026
 - no progress made
+### 02/05/2026
+- research for the repositoty pages
+- intro to database systems 
   
