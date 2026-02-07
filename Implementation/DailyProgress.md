@@ -79,4 +79,5 @@
 ### 02/05/2026
 - research for the repositoty pages
 - intro to database systems 
-  
+### 02/06/2026
+-no progress made (fund of data comm hw) 
