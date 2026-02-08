@@ -81,3 +81,6 @@
 - intro to database systems 
 ### 02/06/2026
 -no progress made (fund of data comm hw) 
+### 02/07/2026 
+- no progress made
+  
