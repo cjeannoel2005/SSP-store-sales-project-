@@ -83,4 +83,5 @@
 -no progress made (fund of data comm hw) 
 ### 02/07/2026 
 - no progress made
-  
+### 02/08/2026 
+- research on how to build the repository pages 
