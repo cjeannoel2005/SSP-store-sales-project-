@@ -87,4 +87,8 @@
 - research on how to build the repository pages
 ### 02/09/2026 
 -started on the OrderRepository page (package and imports )
+### 02/10/2026
+- not progress made ( intro to database systems homework 2 and lab 2 ) found in the intro to datatbase systems repository
+### 02/11/2026 
+
 
