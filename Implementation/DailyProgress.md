@@ -90,5 +90,8 @@
 ### 02/10/2026
 - not progress made ( intro to database systems homework 2 and lab 2 ) found in the intro to datatbase systems repository
 ### 02/11/2026 
+- no progress made
+### 02/12/2026 
+-no progress made 
 
 
