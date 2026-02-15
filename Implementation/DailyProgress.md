@@ -93,5 +93,9 @@
 - no progress made
 ### 02/12/2026 
 -no progress made 
+### 02/13/2026 
+- no progress made
+### 02/14/2026 
+- no progress made 
 
 
