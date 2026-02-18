@@ -102,6 +102,8 @@
 ### 02/16/2025 
 - creating and completing the repository page notes
 - creating and filling the repository page
+### 02/27/2026
+- prep for phone interview 
 
 
 
