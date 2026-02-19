@@ -102,8 +102,10 @@
 ### 02/16/2025 
 - creating and completing the repository page notes
 - creating and filling the repository page
-### 02/27/2026
+### 02/17/2026
 - prep for phone interview 
-
+### 02/18/2026
+- no progress phone screening for intership
+- human communication hw 
 
 
