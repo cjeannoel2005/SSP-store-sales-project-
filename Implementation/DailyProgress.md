@@ -106,6 +106,8 @@
 - prep for phone interview 
 ### 02/18/2026
 - no progress phone screening for intership
-- human communication hw 
+- human communication hw
+### 02/19/2026 to 02/23/2025
+- midterm prep + assignments + career fair prep 
 
 
