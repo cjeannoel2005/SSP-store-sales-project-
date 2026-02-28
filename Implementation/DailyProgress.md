@@ -109,5 +109,6 @@
 - human communication hw
 ### 02/19/2026 to 02/23/2025
 - midterm prep + assignments + career fair prep 
-
+### 02/27/2026
+- no progress made
 
