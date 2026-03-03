@@ -111,4 +111,6 @@
 - midterm prep + assignments + career fair prep 
 ### 02/27/2026
 - no progress made
+### 03/02/2026 
+- project postponed until spring break 
 
