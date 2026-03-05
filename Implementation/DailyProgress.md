@@ -112,5 +112,8 @@
 ### 02/27/2026
 - no progress made
 ### 03/02/2026 
-- project postponed until spring break 
+- project postponed until spring break
+### 03/03/2023 
+- debugging and accessing the progress of the project in order to advance further throughout spring break.
+
 
